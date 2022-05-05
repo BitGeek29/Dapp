@@ -1,2 +1,2 @@
 # Dapp
-Decentralized Application
+Decentralized App for Subsidy System 
